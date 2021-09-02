@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @s-dyorin
-- 👀 I’m interested in blockchain, Solidity, NFTs, samrt contracts
+- 👀 I’m interested in blockchain, Solidity, NFTs, smart contracts
 - 🌱 I’m currently learning various adobe programs (photoshop, illustrator, later maybe fresco)
 - 💞️ I’m looking to collaborate on see above
 - 📫 How to reach me https://twitter.com/SDyorin
